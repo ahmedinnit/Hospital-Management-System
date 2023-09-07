@@ -1,0 +1,49 @@
+Blue-green Algae@ Panadol Paracetamol. 2 weeks course@ 2 pills/day after every meal.
+Prostrate Cancer@ Simvastatin Albuterol. 1 week course@ 1 pill/day after every meal.
+Acute Flaccid Myelitis@ Flurbiprofen. 1 month course@ 2 pills/day after every meal.
+Alphaviruses@ Pain_Relief Aspirin Ketoprofen. 2 month course@ 3 pills/day after every meal.
+Alzheimer's Diseases@ Cambia Zipsor. 2 week course@ 2 pills/day after every meal.
+Arthritis@ Carisoprodol Soma Zorvolex. 1 week course@ 4 pills/day after every meal.
+Babesiosis@ Flurbiprofen Nalfon. 1 month course@ 3 pills/day after every meal.
+Cervical Cancer@ Lansoprazole Aspirin. 2 weeks course@ 1 pill/day after every meal.
+Colon Cancer@ Orphenadrine_Citrate Aspirin Ketoprofen. 2 months course@ 3 pills/day before every meal.
+Kidney Cancer@ Pain_Relief Aspirin Amrix. 4 weeks course@ 2 pills/day after every meal.
+Liver Cancer@ Pain_Relief Aspirin Ketoprofen Simvastatin. 2 months course@ 3 pills/day after dinner.
+Multiple Myeloma@ Skelaxin. 1 week course@ 1 pill/day after every meal.
+Stomach Cancer@ Famotidine Ketorolac Cyclobenzaprine_HCL. 4 months course@ 1 pill/day after breakfast.
+Carbon Monoxide Poisoning@ Zipsor Metaxalone. 5 weeks course@ 2 pills/day after breakfast and dinner.
+Celiac Disease@ Albuterol Losartan. 6 months course@ 1 pill/day before sleeping.
+Chickenpox@ Bufferin Ibuprofen Nalfon. 1 week course@ 1 pill/day after every meal.
+Chronic Obstructive Pulmonary@ Ocufen. 2 months course@ 3 pills/day before every meal.
+Conjunctivitis@ Advil Nabumetone. 3 weeks course@ 2 pills/day before brunch.
+Diabetes@ Naproxen Diclofenac Actron. 4 weeks course@ 1 pills/day before dinner.
+HIV/AIDS@ Aleve Amlodipine Metoprolol Tylenol. 2 month course@ 3 pills/day after every meal.
+Arboviral Encephalitis@ Fenoprofen Aleve Motrin Carisoprodol. 1 week course@ 2 pills/day after every meal.
+Asthma@ Methocarbamol. 1 week course@ 1 pill/day before every meal.
+Colorectal Cancer@ Bayer Acetaminophen Ketoprofen. 2 month course@ 3 pills/day after every meal.
+Leukemia Cancer@ Pain_Relief Camylofin. 3 months course@ 1 pill/day before sleeping.
+Lung Cancer@ Dexlansoprazole Aspirin Carisoprodol. 4 weeks course@ 3 pills/day after breakfast.
+Oral Cancer@ Nabumetone Carisoprodol Fenoverine. 2 month course@ 3 pills/day after every meal.
+Carbapenem-Resistant Enterobacteriaceae@ Fenoverine Hyoscyamine Lansoprazole Robaxin. 2 month course@ 3 pills/day after every meal.
+Cardiovascular Disease@ Meclofenamate. 3 months course@ 1 pill/day during every meal.
+Chagas Disease@ Aleve Camylofin Ketorolac. 2 months course@ 1 pill/day before every meal.
+Chronic Fatigue Syndrome@ Ketoprofen. 1 weeks course@ 3 pills/day before every meal.
+Clostridium Difficile@ Orphenadrine_Citrate. 2 months course@ 3 pills/day after every meal.
+Creutzfeldt-Jakob Disease@ Methocarbamol Amrix Cefuroxime_Axetil. 2 months course@ 3 pills/day before dinner.
+Cyclospora@ Zorvolex Motrin Albuterol Naproxen. 4 months course@ 2 pills/day before every meal.
+Depression@ Ibuprofen. 1 week course@ 1 pill/day before every meal.
+Diphtheria@ Tylenol Amrix Carisoprodol Zipsor. 2 months course@ 3 pills/day before breakfast.
+EEV Virus@ Albuterol Ocufen Cambia Nabumetone Soma. 2 months course@ 3 pills/day before brunch.
+Enterovirus@ Doxycycline Aspirin. 2 months course@ 1 pill/day after breakfast.
+Fibromyalgia@ Metformin Naproxen Bufferin. 2 months course@ 1 pill/day before every meal.
+Haff Disease@ Motrin_IB Dexlansoprazole. 2 months course@ 2 pills/day before every meal.
+Hepatitis@ Fenoverine Hyoscyamine Metaxalone. 2 months course@ 2 pills/day before every meal.
+Ehrlichiosis@ Ketorolac. 2 months course@ 1 pill/day before every meal.
+High Blood Pressure@ Ketorolac Meclofenamate Camylofin. 2 months course@ 3 pills/day before every meal.
+Influenza@ Carisoprodol Skelaxin Zorvolex Hyoscyamine. 2 months course@ 2 pills/day before every meal.
+Legionnaires Disease@ Nalfon Advil Bayer Simvastatin. 2 months course@ 2 pills/day before every meal.
+Listeriosis@ Motrin Metaxalone. 2 months course@ 1 pill/day before every meal.
+Disease@ Omeprazole Fenoprofen Robaxin Diclofenac. 2 months course@ 2 pill/day before every meal.
+Meningitis@ Ibuprofen Zipsor Bufferin. 2 months course@ 1 pill/day before every meal.
+Yellow Fever@ Cefuroxime_Axetil. 2 months course@ 3 pills/day before every meal.
+Corona@ Amlodipine Orphenadrine_Citrate. 2 months course@ 3 pills/day before every meal.

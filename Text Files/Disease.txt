@@ -1,0 +1,50 @@
+Slurred_Speech,Arm_Pain,Neck_Pain Acute Flaccid Myelitis (AFM)
+Fever,Arthralgia,Headache Alphaviruses
+Memory_Loss Alzheimer's Diseases
+Stiffness,Swelling Arthritis
+Sweat,Loss_of_Appetite,Nausea Babesiosis
+Diarrhea,Vomiting,Throat_Irritation Blue-green Algae
+Frequent_Urination Prostrate Cancer
+Blood_Spots Cervical Cancer
+Diarrhea,Constipation Colon Cancer
+Low_Back_Pain Kidney Cancer
+Weight_Loss,Vomiting Liver Cancer
+Bone_Pain,Fatigue Multiple Myeloma
+Heartburn,Indigestion Stomach Cancer
+Headache,Dizziness,Weakness Carbon Monoxide Poisoning
+Abdominal_Pain,Constipation Celiac Disease
+Fever,Tiredness,Red_spots Chickenpox
+Frequent_Coughing,Wheezing Chronic Obstructive Pulmonary
+Pink_Colour_of_Eye,Tears Conjunctivitis
+Hungry,Thirsty,Weakness Diabetes
+Rashes,Headache HIV/AIDS
+Drowsiness,Fever Arboviral Encephalitis
+Short_Breaths,TightChest Asthma
+Diarrhea Colorectal Cancer
+Fever,Chills Leukemia Cancer
+Wheezing Lung Cancer
+Bleeding,Numbness_in_Teeth Oral Cancer
+Bellyache,Vomits Carbapenem-Resistant Enterobacteriaceae
+Chestache,Numbness Cardiovascular Disease
+Heachache,Fatigue Chagas Disease
+Sore_Throat,Dizziness Chronic Fatigue Syndrome
+Fever,Blood_Vomits Clostridium Difficile
+Insomnia,Incoordination Creutzfeldt-Jakob Disease
+Bloating,Cramping Cyclospora
+Sadness,Tearfulness Depression
+Tiredness,Fever Diphtheria
+High_Fever,Headache,Drowsiness EEV Virus
+Fever,Weakness Ebola Virus
+Fever,Sneezing Enterovirus
+Depression,Anxiety Fibromyalgia
+Swelling,Breakdown,Vomiting Haff Disease
+Jaundice Hepatitis
+Nausea,Vomiting,Diarrhea Ehrlichiosis
+Irregular_Heartbeat High Blood Pressure
+Fever,Coughing Influenza
+Pneumonia Legionnaires Disease
+Confusion,Vomiting,Fever Listeriosis
+Migraine,Headache Lyme Disease
+Headache,Nausea,Vomiting Meningitis
+Sensitivity_to_Light,Fever Yellow Fever
+Sore_Throat,Headache,Aches_and_Pains Corona

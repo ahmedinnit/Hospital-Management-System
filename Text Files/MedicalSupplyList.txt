@@ -1,0 +1,8 @@
+1 Mask Breathing_Circuits Hyperinflation_Bags Epidural_Kits *
+2 Medical_Textbooks Journals Teaching_Aids *
+3 Undercast_Padding Plaster_Wrap Casting_Tape *
+4 Irrigation_Trays Suction_Catheters Yankauers Wound-Evacuators *
+5 Surgical Single_and_Drape_Packs *
+6 Gauze_Pads/Rolls Elastic_Bandages Wound_Dressings Dressing_Kits Medical_Tape *
+7 EKG/ECG ESU EMS Defibrillation Needles/Blades *
+8 Staplers Trocars Obturators Graspers Dissectors *
